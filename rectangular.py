@@ -1,3 +1,5 @@
+# Collins Wanga
+
 import turtle
 def drawRectangle(myTurtle,width,height):
     myTurtle.forward(width)
@@ -8,5 +10,3 @@ def drawRectangle(myTurtle,width,height):
     myTurtle.right(90)
     myTurtle.forward(height)
     myTurtle.right(90)
-    
-    
